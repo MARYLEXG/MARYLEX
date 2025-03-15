@@ -140,4 +140,5 @@ for ciudad in Temperatura:
         for dia in semana:
             suma += dia['temp']
         print("PROEDIOS POR SEMANA Y CIUDADES",suma)
+
         
